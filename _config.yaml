@@ -1,1 +1,2 @@
 name: Michael Freeborn
+permalink: blog/:year/:month/:day/:title
