@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Michael Freeborn | First Blog Post
+title: First Blog Post
 date: 2020-03-12
 ---
 This is me just fiddling about with Gitub Pages seeing if I can create my first blog post.
