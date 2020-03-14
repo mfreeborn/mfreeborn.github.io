@@ -1,4 +1,6 @@
+title: Michael Freeborn
 name: Michael Freeborn
+description: A collection of ramblings about hardware and programming.
 markdown: kramdown
 permalink: blog/:year/:month/:day/:title
 theme: jekyll-theme-minimal
