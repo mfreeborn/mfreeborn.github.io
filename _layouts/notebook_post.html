@@ -12971,10 +12971,16 @@ div#notebook {
 </style>
 
 <article class="post">
-    <h1>{{ page.title }}</h1>
-
+    <!-- <h1>{{ page.title }}</h1> -->
+    <!-- Displaying the title is the responsibility of the Notebook -->
     <div class="entry">
-        {{ content }}
+      <body>
+        <div tabindex="-1" id="notebook" class="border-box-sizing">
+          <div class="container" id="notebook-container">
+            {{ content }}
+          </div>
+        </div>
+      </body>
     </div>
 
     <div class="date">
